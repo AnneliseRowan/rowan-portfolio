@@ -2,7 +2,7 @@
 
 ## Live
 
-**[View Live Preview](https://anneliserowan.github.io/rowan-portfolio/)**
+**[View Live](https://anneliserowan.github.io/rowan-portfolio/)**
 
 ## Preview
 
