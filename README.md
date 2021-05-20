@@ -6,7 +6,7 @@
 
 ## Preview
 
-[!](dist/assets/img/screencapture-127-0-0-1-5500-dist-index-html-2021-05-20-16_11_21.png)
+[](dist/assets/img/screencapture-127-0-0-1-5500-dist-index-html-2021-05-20-16_11_21.png)
 
 ## Copyright and License
 
