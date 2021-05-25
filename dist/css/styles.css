@@ -48,6 +48,18 @@
   box-sizing: border-box;
 }
 
+#resume {
+  padding-bottom: 20px; 
+  margin-top: -25px; 
+
+}
+
+#resume span {
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.15rem; 
+  font-weight: 400; 
+  color: #6c757d;
+}
 
 html {
   font-family: sans-serif;
